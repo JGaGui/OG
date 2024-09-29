@@ -1,0 +1,247 @@
+[
+    {
+        "currentFill": 15,
+        "time": "2024-09-29T06:00:00Z",
+        "id": "A1"
+    },
+    {
+        "currentFill": 17,
+        "time": "2024-09-29T06:05:00Z",
+        "id": "A2"
+    },
+    {
+        "currentFill": 20,
+        "time": "2024-09-29T06:10:00Z",
+        "id": "A3"
+    },
+    {
+        "currentFill": 23,
+        "time": "2024-09-29T06:15:00Z",
+        "id": "A4"
+    },
+    {
+        "currentFill": 18,
+        "time": "2024-09-29T06:20:00Z",
+        "id": "A5"
+    },
+    {
+        "currentFill": 19,
+        "time": "2024-09-29T06:25:00Z",
+        "id": "A6"
+    },
+    {
+        "currentFill": 22,
+        "time": "2024-09-29T06:30:00Z",
+        "id": "A7"
+    },
+    {
+        "currentFill": 24,
+        "time": "2024-09-29T06:35:00Z",
+        "id": "A8"
+    },
+    {
+        "currentFill": 21,
+        "time": "2024-09-29T06:40:00Z",
+        "id": "A9"
+    },
+    {
+        "currentFill": 25,
+        "time": "2024-09-29T06:45:00Z",
+        "id": "A10"
+    },
+    {
+        "currentFill": 27,
+        "time": "2024-09-29T06:50:00Z",
+        "id": "A11"
+    },
+    {
+        "currentFill": 29,
+        "time": "2024-09-29T06:55:00Z",
+        "id": "A12"
+    },
+    {
+        "currentFill": 28,
+        "time": "2024-09-29T07:00:00Z",
+        "id": "A13"
+    },
+    {
+        "currentFill": 31,
+        "time": "2024-09-29T07:05:00Z",
+        "id": "A14"
+    },
+    {
+        "currentFill": 33,
+        "time": "2024-09-29T07:10:00Z",
+        "id": "A15"
+    },
+    {
+        "currentFill": 36,
+        "time": "2024-09-29T07:15:00Z",
+        "id": "A16"
+    },
+    {
+        "currentFill": 34,
+        "time": "2024-09-29T07:20:00Z",
+        "id": "A17"
+    },
+    {
+        "currentFill": 32,
+        "time": "2024-09-29T07:25:00Z",
+        "id": "A18"
+    },
+    {
+        "currentFill": 30,
+        "time": "2024-09-29T07:30:00Z",
+        "id": "A19"
+    },
+    {
+        "currentFill": 28,
+        "time": "2024-09-29T07:35:00Z",
+        "id": "A20"
+    },
+    {
+        "currentFill": 29,
+        "time": "2024-09-29T07:40:00Z",
+        "id": "A21"
+    },
+    {
+        "currentFill": 31,
+        "time": "2024-09-29T07:45:00Z",
+        "id": "A22"
+    },
+    {
+        "currentFill": 33,
+        "time": "2024-09-29T07:50:00Z",
+        "id": "A23"
+    },
+    {
+        "currentFill": 35,
+        "time": "2024-09-29T07:55:00Z",
+        "id": "A24"
+    },
+    {
+        "currentFill": 38,
+        "time": "2024-09-29T08:00:00Z",
+        "id": "A25"
+    },
+    {
+        "currentFill": 40,
+        "time": "2024-09-29T08:05:00Z",
+        "id": "A26"
+    },
+    {
+        "currentFill": 42,
+        "time": "2024-09-29T08:10:00Z",
+        "id": "A27"
+    },
+    {
+        "currentFill": 44,
+        "time": "2024-09-29T08:15:00Z",
+        "id": "A28"
+    },
+    {
+        "currentFill": 46,
+        "time": "2024-09-29T08:20:00Z",
+        "id": "A29"
+    },
+    {
+        "currentFill": 45,
+        "time": "2024-09-29T08:25:00Z",
+        "id": "A30"
+    },
+    {
+        "currentFill": 48,
+        "time": "2024-09-29T08:30:00Z",
+        "id": "A31"
+    },
+    {
+        "currentFill": 50,
+        "time": "2024-09-29T08:35:00Z",
+        "id": "A32"
+    },
+    {
+        "currentFill": 52,
+        "time": "2024-09-29T08:40:00Z",
+        "id": "A33"
+    },
+    {
+        "currentFill": 55,
+        "time": "2024-09-29T08:45:00Z",
+        "id": "A34"
+    },
+    {
+        "currentFill": 57,
+        "time": "2024-09-29T08:50:00Z",
+        "id": "A35"
+    },
+    {
+        "currentFill": 60,
+        "time": "2024-09-29T08:55:00Z",
+        "id": "A36"
+    },
+    {
+        "currentFill": 63,
+        "time": "2024-09-29T09:00:00Z",
+        "id": "A37"
+    },
+    {
+        "currentFill": 65,
+        "time": "2024-09-29T09:05:00Z",
+        "id": "A38"
+    },
+    {
+        "currentFill": 68,
+        "time": "2024-09-29T09:10:00Z",
+        "id": "A39"
+    },
+    {
+        "currentFill": 71,
+        "time": "2024-09-29T09:15:00Z",
+        "id": "A40"
+    },
+    {
+        "currentFill": 74,
+        "time": "2024-09-29T09:20:00Z",
+        "id": "A41"
+    },
+    {
+        "currentFill": 76,
+        "time": "2024-09-29T09:25:00Z",
+        "id": "A42"
+    },
+    {
+        "currentFill": 80,
+        "time": "2024-09-29T09:30:00Z",
+        "id": "A43"
+    },
+    {
+        "currentFill": 82,
+        "time": "2024-09-29T09:35:00Z",
+        "id": "A44"
+    },
+    {
+        "currentFill": 85,
+        "time": "2024-09-29T09:40:00Z",
+        "id": "A45"
+    },
+    {
+        "currentFill": 87,
+        "time": "2024-09-29T09:45:00Z",
+        "id": "A46"
+    },
+    {
+        "currentFill": 90,
+        "time": "2024-09-29T09:50:00Z",
+        "id": "A47"
+    },
+    {
+        "currentFill": 93,
+        "time": "2024-09-29T09:55:00Z",
+        "id": "A48"
+    },
+    {
+        "currentFill": 95,
+        "time": "2024-09-29T10:00:00Z",
+        "id": "A49"
+    }
+]
